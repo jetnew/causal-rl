@@ -13,6 +13,9 @@
 * Genewein, Tim, et al. "Algorithms for Causal Reasoning in Probability Trees." ([2020](https://arxiv.org/abs/2010.12237))
 * Lee, Sanghack, and Elias Bareinboim. "Structural causal bandits: where to intervene?." ([2018](https://proceedings.neurips.cc/paper/2018/file/c0a271bc0ecb776a094786474322cb82-Paper.pdf))
 * Bengio, Yoshua, et al. "A meta-transfer objective for learning to disentangle causal mechanisms." ([2019](https://arxiv.org/abs/1901.10912))
+* Gershman, Samuel J. "Reinforcement learning and causal models." ([2015](http://gershmanlab.webfactional.com/pubs/RL_causal.pdf))
+* Zhu, Shengyu et al. "Causal Discovery with Reinforcement Learning." ([2020](https://arxiv.org/pdf/1906.04477.pdf))
+* Gershman, Samuel J. et al. "Discovering latent causes in reinforcement learning." ([2015](http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/discovering-latent-causes-in-reinforcement-learning.pdf))
 
 ## Books
 * Causal Inference: What If ([Miguel Hernan, Jamie Robins](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/))
