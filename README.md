@@ -6,6 +6,8 @@
 ## Papers
 * Rezende, Danilo J., et al. "Causally Correct Partial Models for Reinforcement Learning." ([2020](https://arxiv.org/abs/2002.02836v1))
 * Genewein, Tim, et al. "Algorithms for Causal Reasoning in Probability Trees." ([2020](https://arxiv.org/abs/2010.12237))
+* Lee, Sanghack, and Elias Bareinboim. "Structural causal bandits: where to intervene?." ([2018](https://proceedings.neurips.cc/paper/2018/file/c0a271bc0ecb776a094786474322cb82-Paper.pdf))
+* Bengio, Yoshua, et al. "A meta-transfer objective for learning to disentangle causal mechanisms." ([2019](https://arxiv.org/abs/1901.10912))
 
 ## Courses
 * Introduction to Causal Inference ([Brady Neal](https://www.bradyneal.com/causal-inference-course))
