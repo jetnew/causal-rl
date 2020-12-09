@@ -8,6 +8,7 @@ This repository serves as a resource compilation and note-taking avenue for my r
 * Lee, Sanghack, and Elias Bareinboim. "Structural causal bandits: where to intervene?." ([2018](https://proceedings.neurips.cc/paper/2018/file/c0a271bc0ecb776a094786474322cb82-Paper.pdf))
 * Bengio, Yoshua, et al. "A meta-transfer objective for learning to disentangle causal mechanisms." ([2019](https://arxiv.org/abs/1901.10912))
 * Gershman, Samuel J. "Reinforcement learning and causal models." ([2015](http://gershmanlab.webfactional.com/pubs/RL_causal.pdf))
+  * Reinforcement learning rely on a representation of state relevant for obtaining rewards that is often not the representation produced in early sensory processing. RL models must discover hidden states underlying observations, or latent structure learning, which can be modelled using latent cause models in partially observable domains.
 * Zhu, Shengyu et al. "Causal Discovery with Reinforcement Learning." ([2020](https://arxiv.org/pdf/1906.04477.pdf))
 * Gershman, Samuel J. et al. "Discovering latent causes in reinforcement learning." ([2015](http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/discovering-latent-causes-in-reinforcement-learning.pdf))
 
