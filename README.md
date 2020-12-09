@@ -32,3 +32,5 @@ This repository serves as a resource compilation and note-taking avenue for my r
   * In my opinion having watched to Week 7, he explains causal inference concepts with exceptional clarity. 
 * Causal Inference, Columbia University on Coursera ([Michael E. Sobel](https://www.coursera.org/learn/causal-inference))
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data, University of Penssylvania on Coursera ([Jason A. Roy](https://www.coursera.org/learn/crash-course-in-causality))
+
+Disclaimer: There may contain unintended misconceptions or misunderstanding of content. In such cases, I will be so grateful if you would raise an issue to ask a question or address any inaccuracies in this repository.
