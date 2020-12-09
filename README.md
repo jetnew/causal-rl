@@ -13,10 +13,10 @@ This repository serves as a resource compilation and note-taking avenue for my r
 
 # Causal Learning Papers
 * Silva, Ricardo. "Motivation and Background." ([2014](http://www.homepages.ucl.ac.uk/~ucgtrbd/papers/causality.pdf)).
- * The learning task is to discover an equivalence class of graphs instead of a particular graph.
+  * The learning task is to discover an equivalence class of graphs instead of a particular graph.
 * Spirtes, Peter, et al. Causation, prediction, and search. MIT press, [2000](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/.g/scottd/fullbook.pdf).
 * Schölkopf, Bernhard. "Causality for machine learning." arXiv preprint arXiv:1911.10500 (2019).
- * Causal modelling can lead to more invariant/robust models, applicable to transfer learning across different problems. Algorithmic information theory provides a natural framework for structural causal models because two conditionals are independent if knowing one does not help to achieve a shorter compression (Kolmogorov complexity) of the other.
+  * Causal modelling can lead to more invariant/robust models, applicable to transfer learning across different problems. Algorithmic information theory provides a natural framework for structural causal models because two conditionals are independent if knowing one does not help to achieve a shorter compression (Kolmogorov complexity) of the other.
 
 ## RL Papers
 * Ha, David, and Jürgen Schmidhuber. "World models." ([2018](https://arxiv.org/abs/1803.10122)).
