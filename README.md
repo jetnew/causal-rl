@@ -11,6 +11,13 @@ This repository serves as a resource compilation and note-taking avenue for my r
 * Zhu, Shengyu et al. "Causal Discovery with Reinforcement Learning." ([2020](https://arxiv.org/pdf/1906.04477.pdf))
 * Gershman, Samuel J. et al. "Discovering latent causes in reinforcement learning." ([2015](http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/discovering-latent-causes-in-reinforcement-learning.pdf))
 
+# Causal Learning Papers
+* Silva, Ricardo. "Motivation and Background." ([2014](http://www.homepages.ucl.ac.uk/~ucgtrbd/papers/causality.pdf)).
+ * The learning task is to discover an equivalence class of graphs instead of a particular graph.
+* Spirtes, Peter, et al. Causation, prediction, and search. MIT press, [2000](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/.g/scottd/fullbook.pdf).
+* Schölkopf, Bernhard. "Causality for machine learning." arXiv preprint arXiv:1911.10500 (2019).
+ * Causal modelling can lead to more invariant/robust models, applicable to transfer learning across different problems. Algorithmic information theory provides a natural framework for structural causal models because two conditionals are independent if knowing one does not help to achieve a shorter compression (Kolmogorov complexity) of the other.
+
 ## RL Papers
 * Ha, David, and Jürgen Schmidhuber. "World models." ([2018](https://arxiv.org/abs/1803.10122)).
   * World models is a model-based reinforcement learning (MBRL) unsupervised pre-training method to compress spatial and temporal representations of the environment using a variational autoencoder (VAE) and mixture density network-recurrent neural network (MDN-RNN) respectively, and uses covariance matrix adaptation-evolutionary strategy (CMA-ES) to optimize the action-selector model, or "controller".
